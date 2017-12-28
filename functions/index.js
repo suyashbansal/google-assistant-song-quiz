@@ -95,7 +95,7 @@ const TTS_DELAY = '500ms';
 const MAX_PREVIOUS_QUESTIONS = 100;
 const SUGGESTION_CHIPS_MAX_TEXT_LENGTH = 25;
 const SUGGESTION_CHIPS_MAX = 8;
-const GAME_TITLE = 'The Bollywod Song Quiz';
+const GAME_TITLE = 'The Bollywood Song Quiz';
 const QUESTIONS_PER_GAME = 2;
 
 // Firebase data keys
